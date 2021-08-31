@@ -1,0 +1,5 @@
+[10-Aug-2018 21:59:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'st2' (T_STRING), expecting ',' or ';' in /home4/v3dgegroup/edgemcsow.com/edgebase/advanceresult.php on line 79
+[11-Aug-2018 09:44:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/v3dgegroup/edgemcsow.com/edgebase/aceresult.php on line 59
+[10-Sep-2018 09:50:04 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/v3dgegroup/edgemcsow.com/edgebase/aceresult.php on line 99
+[10-Sep-2018 09:50:04 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/v3dgegroup/edgemcsow.com/edgebase/aceresult.php on line 177
+[10-Sep-2018 09:50:04 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/v3dgegroup/edgemcsow.com/edgebase/aceresult.php on line 244
